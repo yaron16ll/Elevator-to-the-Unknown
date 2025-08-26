@@ -19,3 +19,12 @@ UserSettings/
 *.pdb
 sysinfo.txt
 NUL
+NUL
+.vsconfig
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+obj/
+UserSettings/
+*.csproj
+*.sln
