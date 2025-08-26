@@ -18,12 +18,3 @@ UserSettings/
 *.mdb
 *.pdb
 sysinfo.txt
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Ll]ogs/
-UserSettings/
-.vs/
-*.csproj
-*.sln
-NUL
