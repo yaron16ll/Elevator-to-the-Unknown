@@ -8,7 +8,7 @@ Interaction with these characters includes **conversations**, **assistance**, **
 At the **end of the adventure**, after completing the **main challenge**, the **path home** is finally revealed.  
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/3861e3b1-49f1-4e8a-8e8b-fac5caa94449" />
 
-<img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/fc141f3f-9893-4825-a193-cf77fbe44947" />
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/fc141f3f-9893-4825-a193-cf77fbe44947" />
 
 
 
