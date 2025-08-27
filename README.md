@@ -16,7 +16,7 @@ At the **end of the adventure**, after completing the **main challenge**, the **
 ## Demo Video
 
 part 1
-https://drive.google.com/file/d/1031QNimbgfyAxpJlBM7lLILSl_pKcyyg/view?usp=drive_link
+[Watch Video](https://drive.google.com/file/d/1031QNimbgfyAxpJlBM7lLILSl_pKcyyg/view?usp=drive_link)
 
 part 2
-https://drive.google.com/file/d/1rOJno1F1zx82pNas39B2pWe6_3FXKLFP/view?usp=drive_link
+[Watch Video](https://drive.google.com/file/d/1rOJno1F1zx82pNas39B2pWe6_3FXKLFP/view?usp=drive_link)
