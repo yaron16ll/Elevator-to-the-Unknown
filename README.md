@@ -19,4 +19,7 @@ part 1
 [Watch the video](https://github.com/yaron16ll/Elevator-to-the-Unknown-World-Game/releases/download/part1/Part1.mp4)
 
 part 2
-[Watch Video](https://drive.google.com/file/d/1rOJno1F1zx82pNas39B2pWe6_3FXKLFP/view?usp=drive_link)
+[Watch the video](https://github.com/yaron16ll/Elevator-to-the-Unknown-World-Game/releases/download/part1/Part2.mp4)
+
+part 3
+[Watch the video](https://github.com/yaron16ll/Elevator-to-the-Unknown-World-Game/releases/download/part1/Part3.mp4)
